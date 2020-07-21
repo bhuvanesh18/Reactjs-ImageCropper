@@ -1,0 +1,12 @@
+.original-img{
+  width: 50%;
+  height: 500px;
+  float:left;
+}
+.preview-img{
+  width: 200px;
+  height: 200px;
+  float:left;
+  border: 1px solid #000;
+  margin-left:50px;
+}
